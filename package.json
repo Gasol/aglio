@@ -40,7 +40,7 @@
     "markdown"
   ],
   "dependencies": {
-    "aglio-theme-olio": "github:Gasol/aglio-theme-olio#lib",
+    "aglio-theme-olio": "^1.6.3",
     "chokidar": "^2.1.5",
     "cli-color": "^1.1.0",
     "drafter": "^2.0.0-pre.1",
